@@ -680,6 +680,19 @@ td {
   border-bottom: 1px solid #434343;
 }
 
+td.team {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-bottom: 1px solid #434343;
+}
+
+td.item {
+  text-align: left;
+  padding: 5px 50px;
+  border-bottom: 1px solid #434343;
+}
+
 hr {
   border: 0;
   outline: none;
